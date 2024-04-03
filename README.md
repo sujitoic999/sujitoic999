@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujitoic999
 - 👀 I’m interested in Web developement
-- 🌱 I’m currently learning React and Node 
+- 🌱 I'm a Web Developer 
 - 📫 LinkedIn: https://www.linkedin.com/in/sujit-kumar-upadhyay-746588158/
 
 <!---
